@@ -1,0 +1,24 @@
+
+
+html{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif !important;
+}
+
+
+.card{
+    border-radius: 1rem !important;
+    width: 18rem;
+}
+
+.font2{
+    font-weight: 400 !important;
+    font-size: 15px;
+
+}
+
+.font1{
+    font-weight: 700 !important;
+    font-size: 18px;
+
+}
